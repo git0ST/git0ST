@@ -1,12 +1,18 @@
 # Shivam Thakur
 **Data Strategy & Machine Learning Engineering**
 
-Strategic technologist specializing in bridging the gap between complex data architectures and business ROI. My expertise lies in deploying scalable MLOps, predictive modeling, and automated data pipelines to drive operational excellence.
+I specialize in extracting meaningful insights from data and building practical, scalable machine learning solutions. My work focuses on applying statistical analysis, predictive modeling, and modern AI techniques to solve real-world problems.
 
 ---
 
-### 🟢 Executive Profile
-* **Domain Expertise:** Artificial Intelligence, Engineering Management, and Strategic Operations.
+### 🟢 Core Expertise
+
+- Data Analytics & Business Intelligence  
+- Data Science & Predictive Modeling  
+- Time Series Analysis & Forecasting  
+- Machine Learning & Applied AI  
+- Large Language Models & Generative AI 
+
 * **Key Achievement:** Reduced operational friction by 30% through automated data validation and NLP-driven process optimization.
 * **Current Focus:** Advancing high-scale Generative AI (GenAI) integration and Time Series forecasting for industrial applications.
 
