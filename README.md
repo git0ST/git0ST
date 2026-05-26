@@ -1,4 +1,4 @@
-# Shivam Thakur
+
 **Data Strategy & Machine Learning Engineering**
 
 I specialize in extracting meaningful insights from data and building practical, scalable machine learning solutions. My work focuses on applying statistical analysis, predictive modeling, and modern AI techniques to solve real-world problems.
